@@ -1,0 +1,23 @@
+{
+  "name": "zhCN.itemModifiers",
+  "description": "todo ...",
+  "author": "knightli",
+  "website": "",
+  "version": "1.0",
+  "config": [
+    {
+      "id": "zhCN.itemModifiers",
+      "type": "checkbox",
+      "name": "zhCN.itemModifiers",
+      "description": "todo",
+      "defaultValue": true
+    },
+    {
+      "id": "zhCN.itemModifiers.addRWNoteForBaseItem",
+      "type": "checkbox",
+      "name": "zhCN.itemModifiers.addRWNoteForBaseItem",
+      "description": "是否显示某些物品类型的符文之语底材提示",
+      "defaultValue": true
+    }
+  ]
+}
