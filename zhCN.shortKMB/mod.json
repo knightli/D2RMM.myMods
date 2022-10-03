@@ -1,0 +1,16 @@
+{
+  "name": "zhCN.shortKBM",
+  "description": "Makes Thousand Million Billion short string shorter in zhCN (mod: bnet.json)",
+  "author": "knightli",
+  "website": "",
+  "version": "1.0",
+  "config": [
+    {
+      "id": "zhCN.shortKBM",
+      "type": "checkbox",
+      "name": "zhCN.shortKBM",
+      "description": "Makes Thousand Million Billion short string shorter in zhCN.",
+      "defaultValue": true
+    }
+  ]
+}
